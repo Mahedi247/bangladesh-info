@@ -1,0 +1,19 @@
+.parent{
+
+}
+
+.green{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    position: relative;
+}
+.red{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border-radius: 50%;
+    
+    
+
+}
